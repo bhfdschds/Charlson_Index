@@ -1,0 +1,77 @@
+[
+  {
+    'code': 'I21',
+    'description': 'Acute myocardial infarction',
+    'code_attributes': {
+      'Disease': 'Myocardial infarction',
+      'Category': 'Acute MI not further specified (5)'
+    },
+    'coding_system': 'ICD10 codes',
+    'concept_id': 'C1298',
+    'concept_version_id': 3735,
+    'concept_name': 'Myocardial infarction - Secondary care - Diagnoses',
+    'phenotype_id': 'PH215',
+    'phenotype_version_id': 430,
+    'phenotype_name': 'Myocardial infarction'
+  },
+  {
+    'code': 'I22',
+    'description': 'Subsequent myocardial infarction',
+    'code_attributes': {
+      'Disease': 'Myocardial infarction',
+      'Category': 'Subsequent MI (6)'
+    },
+    'coding_system': 'ICD10 codes',
+    'concept_id': 'C1298',
+    'concept_version_id': 3735,
+    'concept_name': 'Myocardial infarction - Secondary care - Diagnoses',
+    'phenotype_id': 'PH215',
+    'phenotype_version_id': 430,
+    'phenotype_name': 'Myocardial infarction'
+  },
+  {
+    'code': 'I23',
+    'description': 'Certain current complications following acute myocardial infarction',
+    'code_attributes': {
+      'Disease': 'Myocardial infarction',
+      'Category': 'Complications of MI (7)'
+    },
+    'coding_system': 'ICD10 codes',
+    'concept_id': 'C1298',
+    'concept_version_id': 3735,
+    'concept_name': 'Myocardial infarction - Secondary care - Diagnoses',
+    'phenotype_id': 'PH215',
+    'phenotype_version_id': 430,
+    'phenotype_name': 'Myocardial infarction'
+  },
+  {
+    'code': 'I241',
+    'description': "Dressler's syndrome",
+    'code_attributes': {
+      'Disease': 'Myocardial infarction',
+      'Category': 'Complications of MI (7)'
+    },
+    'coding_system': 'ICD10 codes',
+    'concept_id': 'C1298',
+    'concept_version_id': 3735,
+    'concept_name': 'Myocardial infarction - Secondary care - Diagnoses',
+    'phenotype_id': 'PH215',
+    'phenotype_version_id': 430,
+    'phenotype_name': 'Myocardial infarction'
+  },
+  {
+    'code': 'I252',
+    'description': 'Old myocardial infarction',
+    'code_attributes': {
+      'Disease': 'Myocardial infarction',
+      'Category': 'History of MI (1)'
+    },
+    'coding_system': 'ICD10 codes',
+    'concept_id': 'C1298',
+    'concept_version_id': 3735,
+    'concept_name': 'Myocardial infarction - Secondary care - Diagnoses',
+    'phenotype_id': 'PH215',
+    'phenotype_version_id': 430,
+    'phenotype_name': 'Myocardial infarction'
+  }
+]

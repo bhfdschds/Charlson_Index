@@ -1,0 +1,14 @@
+name: CCI_Original
+web_link: https://www.mdcalc.com/calc/3917/charlson-comorbidity-index-cci
+main_publicaiton_doi: https://doi.org/10.1016/0021-9681(87)90171-8
+comorbidities:
+  - MI:
+      - name: Myocardial infarction
+      - description: History of definite or probable MI (EKG changes and/or enzyme changes)
+      - cci_point: 1
+      - phenotype_info:
+            - hdruk_link: https://phenotypes.healthdatagateway.org/phenotypes/PH215/version/430/detail/
+            - details_json_link: http://phenotypes.healthdatagateway.org/api/v1/public/phenotypes/PH215/version/430/detail/?format=json
+            - codelist_json_link: https://phenotypes.healthdatagateway.org/api/v1/public/phenotypes/PH215/version/430/export/codes/?format=json
+            - codelist_csv_link: https://phenotypes.healthdatagateway.org/phenotypes/PH215/version/430/export/codes/
+

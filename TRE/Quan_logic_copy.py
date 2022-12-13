@@ -82,5 +82,6 @@ df = df.withColumn("quan_mutual_exclusive", F.expr('+'.join(new_col_list_mex)))
 
 df = df.drop(*new_col_list)
 df = df.drop(*new_col_list_mex)
+df = df.drop(*col_list)
 df.show()
-print(df.explain(extended=True))
+#print(df.explain(extended=True))
